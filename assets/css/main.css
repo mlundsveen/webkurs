@@ -3917,3 +3917,16 @@
 			}
 
 		}
+#contact ul {
+	list-style: none;
+}
+#contact ul li a {
+	display: inline-block;
+}
+#contact ul li i {
+	display: inline-block;
+	margin-right: 20px;
+}
+#contact ul li i {
+	width: 20px;
+}
